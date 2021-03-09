@@ -12,9 +12,9 @@ Esse é o repositório referente a ***Formação Acessibilidade Web*** o foco de
 
 ## Cursos desta Formação :
 
-- ✅ **<a href="">1- Acessibilidade web - Introdução a designs inclusivos</a>**
-- ✅ **<a href="">2- Acessibilidade web - Tornando seu front-end inclusivo</a>**
-- ✅ **<a href="">3- Acessibilidade web - Componentes acessíveis com um pouco de JavaScript</a>**
+- ✅ **<a href="https://github.com/saldanhayg/Formacao-Acessibilidade-Web-Alura/tree/main/1-%20Acessibilidade%20web%20-%20Introdu%C3%A7%C3%A3o%20a%20designs%20inclusivos">1- Acessibilidade web - Introdução a designs inclusivos</a>**
+- ✅ **<a href="https://github.com/saldanhayg/Formacao-Acessibilidade-Web-Alura/tree/main/2-%20Acessibilidade%20web%20-%20Tornando%20seu%20front-end%20inclusivo">2- Acessibilidade web - Tornando seu front-end inclusivo</a>**
+- ✅ **<a href="https://github.com/saldanhayg/Formacao-Acessibilidade-Web-Alura/tree/main/3-%20Acessibilidade%20web%20-%20Componentes%20acess%C3%ADveis%20com%20um%20pouco%20de%20JavaScript">3- Acessibilidade web - Componentes acessíveis com um pouco de JavaScript</a>**
 
 
 ## Tecnologia utilizadas 🚀:
