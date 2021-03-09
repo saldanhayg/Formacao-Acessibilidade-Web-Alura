@@ -1,23 +1,22 @@
-# Formação ACESSIBILIDADE WEB na Alura Cursos Online
+# Acessibilidade web: introdução a designs inclusivos
 
 <h1>
-	<img src="https://i.ibb.co/PQDWHNs/ACESSIBILIDADE-WEB.png" border="0">
+   <img src="https://i.ibb.co/gz1LR01/ACESSIBILIDADE-WEB-INTRODU-O-A-DESIGNS-INCLUSIVOS.png" border="0">
 </h1>
  
 
-## Sobre ⭐️
+## Sobre: 
 
-Esse é o repositório referente a ***Formação Acessibilidade Web*** o foco desta formação é aprender a proporcionar uma ótima experiência para quem está navegando no seu site. Além de melhorar a Experiência do Usuário (UX),entender como o ambiente web funciona na realidade de outras pessoas e assim diminuir as barreiras que podem causar problemas na hora delas interagirem com o seu produto.
+<h3>Faça esse curso de HTML e CSS e:</h3><br>
+- ✅ **Entenda porque pensar em acessibilidade**
+- ✅ **Perceba algumas particularidades de PCDs**
+- ✅ **Melhore a usabilidade do seu projeto antes de por a mão no código**
+- ✅ **Deixe sua interface inclusiva para todos, PCDs ou não**
+- ✅ **Projete uma interface acessível de verdade**
+- ✅ **Aprenda a projetar layouts para autistas, disléxicos, Surdos, etc**
 
 
-## Cursos desta Formação :
-
-- ✅ **<a href="">1- Acessibilidade web - Introdução a designs inclusivos</a>**
-- ✅ **<a href="">2- Acessibilidade web - Tornando seu front-end inclusivo</a>**
-- ✅ **<a href="">3- Acessibilidade web - Componentes acessíveis com um pouco de JavaScript</a>**
-
-
-## Tecnologia utilizadas 🚀:
+###  Tecnologia utilizadas
 
 * <a href="https://www.w3schools.com/html">HTML</a> 
 * <a href="https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript">JavptaScrit</a>
